@@ -1,1 +1,1 @@
-Tryed to create a project using html,css
+Tried to create a project using html,css
